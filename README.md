@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipinpatel
-- 👀 I’m interested in software developmenta and python related project.
+- 👀 I’m interested in software development and python related project.
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on any type of project related to data science and web development.
 - 📫 contact me:letsmailvipinpatel@gmail.com
